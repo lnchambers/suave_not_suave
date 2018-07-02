@@ -19,7 +19,12 @@ def quotes
     "Um, arbt....hubt....erqnt.... Are those good?",
     "I almost got that hot salsa then I was like, shit. I bet that's what's making me cry.",
     "A burrito a day keeps the doctor.........paid.",
-    "If I had a mediocre superpower, I would pick being able to tell the current Unix time."
+    "If I had a mediocre superpower, I would pick being able to tell the current Unix time.",
+    "You know, for the children.",
+    "¿Donde esta el agua? ¡Mi gato esta en fuego!",
+    "I have reflexes of steel!",
+    "I have been told that I am an impressive specimen. In fact, that's not the first time I've heard that today.",
+    "My life would be better if I don't know? Well that's what they said about the aliens."
   ]
 
 quotes.each do |quote|
