@@ -24,7 +24,16 @@ def quotes
     "¿Donde esta el agua? ¡Mi gato esta en fuego!",
     "I have reflexes of steel!",
     "I have been told that I am an impressive specimen. In fact, that's not the first time I've heard that today.",
-    "My life would be better if I don't know? Well that's what they said about the aliens."
+    "My life would be better if I don't know? Well that's what they said about the aliens.",
+    "Was Saving Private Ryan a comedy?",
+    "No! If anything, I should gain suave levels, I'm still alive!",
+    "I really enjoyed writing this code and I'm not against killing a baby.",
+    "More words. I'm saying more words. Right now. Is it good? Did it work?",
+    "I was showing him my Destiny thing and he saw 420 high rollers and in a nutshell I used to smoke a lot of pot.",
+    "It's a water hole out there. Water hole? Watering hole? It's a term people use sometimes.",
+    "I've never killed a cat. I've killed a prairie dog, but not a cat.",
+    "No, I meant what I wrote. We went to a stake house. You know, for capturing, torturing, and murdering vampires.",
+    ""
   ]
 
 quotes.each do |quote|
