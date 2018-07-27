@@ -17,6 +17,7 @@ gem 'active_model_serializers'
 
 group :development, :test do
   gem 'pry'
+  gem 'rspec'
   gem 'rspec-rails'
   gem 'shoulda-matchers'
   gem 'factory_bot_rails'
