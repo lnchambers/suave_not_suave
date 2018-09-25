@@ -1,3 +1,3 @@
-class Api::Vsuave::BaseController << ApplicationController
+class Api::Vsuave::BaseController < ApplicationController
 
 end

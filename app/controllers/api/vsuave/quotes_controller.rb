@@ -1,4 +1,4 @@
-class Api::Vsuave::QuotesController << ApplicationController
+class Api::Vsuave::QuotesController < ApplicationController
 
   def index
     render json: Quote.limit(1).order("RANDOM()").full_quote
