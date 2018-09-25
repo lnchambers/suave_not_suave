@@ -13,15 +13,18 @@ gem 'coffee-rails', '~> 4.2'
 gem 'jbuilder', '~> 2.5'
 gem 'bcrypt', '~> 3.1.7'
 gem 'figaro'
+gem 'active_model_serializers'
 
 group :development, :test do
   gem 'pry'
+  gem 'rspec'
   gem 'rspec-rails'
   gem 'shoulda-matchers'
   gem 'factory_bot_rails'
   gem 'faker'
   gem 'database_cleaner'
   gem 'capybara'
+  gem "selenium-webdriver"
 end
 
 group :development do
