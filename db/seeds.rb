@@ -58,6 +58,8 @@ def quotes
   ]
 end
 
+meter = Meter.create!(last_reset: Time.now)
+
 quotes.each do |quote|
-  Quote.create!(full_quote: quote)
+  Quote.create!(full_quote: quote, meter: meter)
 end
