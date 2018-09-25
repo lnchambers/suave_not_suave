@@ -1,7 +1,7 @@
 class Api::Vsuave::QuotesController < ApplicationController
 
   def index
-    render json: Quote.limit(1).order("RANDOM()").first.full_quote
+    render json: Quote.limit(1).order("RANDOM()").first
   end
 
   def show
