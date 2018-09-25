@@ -33,8 +33,30 @@ def quotes
     "It's a water hole out there. Water hole? Watering hole? It's a term people use sometimes.",
     "I've never killed a cat. I've killed a prairie dog, but not a cat.",
     "No, I meant what I wrote. We went to a stake house. You know, for capturing, torturing, and murdering vampires.",
+    "People are stillborn?",
+    "My favorite thing to break are babies, and other small objects.",
+    "James Bond dropped this album. He is a really good.... album.... maker....",
+    "I got on the boat and went skydiving. With George Clooney. He was making shoes, you know, because he is a cobbler",
+    "If these were my children, I would ignore. I would be ashamed to take them out in public.",
+    "I speak the most Spanish out of anyone who doesn't speak Spanish.",
+    "I saw a road called Granny Road and I was like, yeah, I like old ladies.",
+    "Some people just taste better than others.",
+    "Sometimes I feel like Meg Griffin.",
+    "I just respect my body too much to drink piss.",
+    "I'd D3's bitch. I mean I'm D3's bitch.",
+    "I'm going to fit right in, I have no quarrels killing babies.",
+    "I was on my way to work and I saw three prairie dogs in the road. I was only able to get one.",
+    "I also had carcass dropped on my car before. I didn't notice until I got to the gas station.",
+    "What if we all grew an extra arm?",
+    "I don't like ice cream.",
+    "You can do anything in Wyoming. Surfing, rocket skydiving, bazooka a cow.",
+    "Don't break my tests or I'll haunt your prostate.",
+    "It's being rendered like a piece of shit.",
+    "Me and the devil are super tight. There's a lot of things the devil and I have in common",
+    "I shit talk! I got really good at shit talking twelve year olds.",
+    "It fun making them cry. I feel really bad about it.",
     ""
-  ]
+    ]
 
 quotes.each do |quote|
   Quote.create!(full_quote: quote)
