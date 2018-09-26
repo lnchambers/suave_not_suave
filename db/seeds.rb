@@ -54,7 +54,8 @@ def quotes
     "It's being rendered like a piece of shit.",
     "Me and the devil are super tight. There's a lot of things the devil and I have in common",
     "I shit talk! I got really good at shit talking twelve year olds.",
-    "It fun making them cry. I feel really bad about it."
+    "It fun making them cry. I feel really bad about it.",
+    "I love when Isis sends me a message"
   ]
 end
 
