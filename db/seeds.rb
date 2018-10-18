@@ -56,7 +56,8 @@ def quotes
     "I shit talk! I got really good at shit talking twelve year olds.",
     "It fun making them cry. I feel really bad about it.",
     "I love when Isis sends me a message",
-    "Do you all ever get Celine Dion stuck in your head? Sometimes I just want to sing The Power of Love."
+    "Do you all ever get Celine Dion stuck in your head? Sometimes I just want to sing The Power of Love.",
+    "They're put together like an autistic kid"
   ]
 end
 
